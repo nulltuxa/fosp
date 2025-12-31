@@ -3,3 +3,4 @@ aiobale
 flask
 toml
 httpx
+pyjwt
